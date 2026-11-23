@@ -1,0 +1,1 @@
+ce7c7a2455737fade160622a8ecbfa73417e2371e3f7e28cb07497f3452ec12c  Termux-API-0.53.0-zero.14.apk
